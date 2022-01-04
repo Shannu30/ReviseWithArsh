@@ -1,4 +1,4 @@
-// Approach - Direct formula - sum of squares of n numbers
+// Approach - Direct formula - sum of squares of n numbers (or) For the ith side, the count of squares is equal to (N – i + 1)2 - N times.
 // Time Complexity - O(1)
 // Space Complexity - O(1)
 
