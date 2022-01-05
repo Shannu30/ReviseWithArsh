@@ -1,6 +1,6 @@
 // Approach - find frequency of the remainders and check for 3 cases, 
-              If remainder is 0 and remainder is k/2 it should have even frequency value. 
-              Else, the frequency should be equal to k-remainder's frequency.
+              //If remainder is 0 and remainder is k/2 it should have even frequency value. 
+              //Else, the frequency should be equal to k-remainder's frequency.
 // Time Complexity - O(n) where n is length of array
 // Space Complexity - O(n) as we have used an extra hashmap.
 
